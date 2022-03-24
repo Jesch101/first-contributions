@@ -1939,6 +1939,7 @@ yejashi
 - [Animesh Srivastava](https://github.com/animesh-77)
   [Chaewoo Lee](https://github.com/ChaewooLee)
 - [Paul Gardner](https://github.com/paul-gardner-1999)
+- [Jeremy Esch](https://github.com/Jesch101)
 - [Kevin Yuan](https://github.com/kevkev99
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
@@ -5868,5 +5869,4 @@ Duncan Ledesma
 - [Keenan Kan](https://github.com/keenerz) 👋
 - [Viraj Shah](https://github.com/virajbshah)
 - [Selorm Lotsu](https://github.com/yaw-sid)
-
 <!-- prettier-ignore-end -->
